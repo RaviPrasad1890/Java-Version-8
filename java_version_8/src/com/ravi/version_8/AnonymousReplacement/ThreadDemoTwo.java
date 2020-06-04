@@ -1,4 +1,4 @@
-package com.ravi.version_8.DrivingClass;
+package com.ravi.version_8.AnonymousReplacement;
 
 //Repalcing Annonymous way of Implementing Thread
 public class ThreadDemoTwo {

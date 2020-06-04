@@ -3,6 +3,9 @@ package com.ravi.AnnonymousInnerClass;
 public class ThreadDemoTwo {
     //Wherever Annonymous Inner class is implemented, we can , some of the time, replace it with
     //Lambda Expression
+    /*
+    We can replace anonymous inner class with lambda exp iff Interface contains only one abstract method
+     */
 
     public static void main(String[] args){
         Runnable r = new Runnable (){
